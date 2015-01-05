@@ -251,7 +251,7 @@ $s-user_hover = 64px 48px -64px -48px 16px 16px 80px 64px 'sprite.png';
 
 ## Usage
 
-Ok, the sprite image has been generated and there is a stylys file of variables, what is next?
+Ok, the sprite image has been generated and there is a stylus file of variables, what is next?
 
 The next are mixins which I am not generating. I manually created a separate file for them which is `mixins.styl`. Here
 is its content:
